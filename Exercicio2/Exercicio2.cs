@@ -1,4 +1,13 @@
 ﻿using System;
+/*
+Faça um programa que leia um número inteiro positivo de três dígitos (de
+100 a 999). Gere outro número formado pelos dígitos invertidos do
+número lido.
+ex: 
+numero lido:  123
+numero impresso :321
+*/
+
 
 namespace Exercicio2
 {
